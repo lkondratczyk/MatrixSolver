@@ -5,9 +5,6 @@
  * @version 6/24/15
  */
 public class MatrixSolver {
-	public double[][] MAIN_MATRIX = new double[2][2];
-	public int index1 = 0;
-	public int iMain = 0;
 	public double accumulator = 0.0;
 
 	/**
